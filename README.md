@@ -1,2 +1,2 @@
 # Shinra-tensei
-Here is all code learnt from **Tensorfiow in Practice** from **Coursera**...
+Code blocks for machine learning model with tensorflow..
